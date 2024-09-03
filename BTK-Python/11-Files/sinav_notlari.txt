@@ -1,0 +1,3 @@
+Kadir Dağdaş:80,70,60
+Mehmet Yılmaz:70,90,90
+Emirhan Demir:90,80,100
